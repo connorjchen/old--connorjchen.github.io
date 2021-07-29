@@ -166,6 +166,10 @@ footer h5 {
 	padding-bottom: 20px;
 }
 
+.individual-project .has-no-logo-or-skills {
+	padding-bottom: 0px;
+}
+
 /* .individual-project .has-no-logo {
 	width: 100%;
 	margin-left: -10px;
@@ -178,6 +182,12 @@ footer h5 {
 
 .project-content {
 	margin-top: 30px;
+	font-size: 15px;
+}
+
+.project-content-no-skills {
+	margin-top: 30px;
+    margin-bottom: 0px;
 	font-size: 15px;
 }
 
