@@ -7,7 +7,7 @@ old--connorjchen.github.io is the repo that was originally used for my personal 
 ### Screenshots
 
 <p align="center">
-  <img src="https://github.com/connorjchen/ratecollegeclubs/blob/master/frontend/public/images/github_assets/Capture1.JPG" width="800" />
-  <img src="https://github.com/connorjchen/ratecollegeclubs/blob/master/frontend/public/images/github_assets/Capture2.JPG" width="800" />
-  <img src="https://github.com/connorjchen/ratecollegeclubs/blob/master/frontend/public/images/github_assets/Capture3.JPG" width="800" />
+  <img src="https://github.com/connorjchen/old--connorjchen.github.io/blob/main/assets/home.JPG" width="800" />
+  <img src="https://github.com/connorjchen/old--connorjchen.github.io/blob/main/assets/portfolio.JPG" width="800" />
+  <img src="https://github.com/connorjchen/old--connorjchen.github.io/blob/main/assets/resume.JPG" width="800" />
 </p>
