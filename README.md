@@ -2,7 +2,7 @@
 
 ### Description
 
-old--connorjchen.github.io is the repo that was originally used for my personal portfolio. However, since then, I have transitioned to a differently formatted personal portfolio. Nonetheless, I aim to keep this repo public to showcase the code I wrote to create it.
+old--connorjchen.github.io is the repo that was originally used for my personal portfolio. However, since then, I have transitioned to a differently formatted personal portfolio.
 
 ### Screenshots
 
